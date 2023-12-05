@@ -1,5 +1,8 @@
 # SyntaxTree::DisableIntFormat
 
+[![Build Status](https://github.com/tasukujp/syntax_tree-disable_int_format/actions/workflows/main.yml/badge.svg)](https://github.com/tasukujp/syntax_tree-disable_int_format/actions/workflows/main.yml)
+[![Gem Version](https://img.shields.io/gem/v/syntax_tree-disable_int_format.svg)](https://rubygems.org/gems/syntax_tree-disable_int_format)
+
 [SyntaxTree](https://github.com/ruby-syntax-tree/syntax_tree) plugin to disable int formatting.
 
 ## Installation
