@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     syntax_tree-disable_int_format (0.1.0)
-      syntax_tree (~> 6.0)
+      syntax_tree (>= 6.0)
 
 GEM
   remote: https://rubygems.org/
