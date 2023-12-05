@@ -1,0 +1,38 @@
+PATH
+  remote: .
+  specs:
+    syntax_tree-disable_int_format (0.1.0)
+      syntax_tree (~> 6.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    diff-lcs (1.5.0)
+    prettier_print (1.2.1)
+    rake (13.1.0)
+    rspec (3.12.0)
+      rspec-core (~> 3.12.0)
+      rspec-expectations (~> 3.12.0)
+      rspec-mocks (~> 3.12.0)
+    rspec-core (3.12.2)
+      rspec-support (~> 3.12.0)
+    rspec-expectations (3.12.3)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.12.0)
+    rspec-mocks (3.12.6)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.12.0)
+    rspec-support (3.12.1)
+    syntax_tree (6.2.0)
+      prettier_print (>= 1.2.0)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  rake
+  rspec
+  syntax_tree-disable_int_format!
+
+BUNDLED WITH
+   2.4.22
